@@ -10,5 +10,5 @@ This project is the analysis of a DASS-42 survey done by OpenPsychometric.org du
 
 
 ## Background
-[Ever since I was a teenager I have faced anxiety and depression and I consider mental health is a topic that is unfortunately becoming more relevant day by day. This data analysis gives optimistic insights though: many of the hypotheses of people having severe anxiety, depression and stress were rejected.]
+Ever since I was a teenager I have faced anxiety and depression and I consider mental health is a topic that is unfortunately becoming more relevant day by day. This data analysis gives optimistic insights though: many of the hypotheses of people having severe anxiety, depression and stress were rejected.
 
