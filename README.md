@@ -1,7 +1,7 @@
 # Final project
 # Depression, Anxiety and Stress Scale Survey and statistics per country analysis
 
-[This project is the analysis of a DASS-42 survey done by OpenPsychometric.org during 2017-2019]
+This project is the analysis of a DASS-42 survey done by OpenPsychometric.org during 2017-2019
 
 ## Relevant links:
 - [https://public.tableau.com/app/profile/maria.pe3830/viz/DA-Finalproject/Projections2018-2045?publish=yes](#tableau_link)
